@@ -1,0 +1,22 @@
+{
+  "name": "MoneySaving",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0-rc.1",
+    "@truffle/hdwallet-provider": "^2.0.15",
+    "binance-api-node": "^0.11.47",
+    "dotenv": "^16.0.2",
+    "path": "^0.12.7",
+    "truffle-contract-size": "^2.0.1",
+    "truffle-plugin-verify": "^0.5.28",
+    "web3": "^1.8.0"
+  }
+}
